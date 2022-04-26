@@ -8,7 +8,7 @@
 ### from sklearn.decomposition import PCA
 ### from sklearn.preprocessing import StandardScaler
 
-## Prepare the Data (provided in the starter code)
+## Prepared the Data 
 
 ## The Best Value for k Using the Original Data IS 4
 
